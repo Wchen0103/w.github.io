@@ -1,0 +1,9 @@
+● 由於出廠預先安裝的 Blynk 模組與 1.19.1 版 MicroPython 不相容, 
+請參考 https://reurl.cc/QLyANo 線上文件重新上傳範例檔中所附的 
+BlynkLib.mpy 與 BlynkTimer.mpy 檔到 D1 mini 上。
+● 如果你的 MicroPython 版本不是 1.19.1 版, 請參考 https://reurl.cc/yrzQAE 
+更新 MicroPython。
+● 新版 Blynk IoT 教學請至 https://reurl.cc/g2K01Q
+● 由於微軟停用人臉辨識功能, 請改用 face-api.js 替換, 相關教學請參考 https://reurl.cc/kEZWKx
+● 相關問題請至旗標創客粉專 https://www.facebook.com/flagmaker3257/ 私訊發問
+● 本產品補充支援專屬網頁 https://www.flag.com.tw/bk/t/FM628A
